@@ -18,7 +18,7 @@
 - 🌱 Currently enhancing my skills in **Financial Statement Analysis, DCF Valuation, and Excel Modeling**
 - 📚 Exploring global markets, investment strategies, and economic trends
 - 👨‍💻 My projects and case studies are available on GitHub
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **gandhalisalsingikar28@.com**
 
 ---
 
@@ -38,7 +38,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/gandhali-salsingikar-b09243357?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
          alt="LinkedIn"
