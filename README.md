@@ -1,88 +1,147 @@
-![logo](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149370940.jpg?semt=ais_hybrid&w=740&q=80)
+![banner](https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1600&auto=format&fit=crop&q=80)
 
-<h1 align="center">Hi 👋, I'm Yourname</h1>
-<h3 align="center">Passionate Developer | JavaScript | React JS | Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Gandhali Salsingikar</h1>
+<h3 align="center">Aspiring Investment Banker | Financial Analysis | Valuation | Corporate Finance</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="finance" width="400" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourname&label=Profile%20views&color=0e75b6&style=flat" alt="yourname" />
+  <img src="https://komarev.com/ghpvc/?username=gandhalisalsingikar28-ship-it&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-## 💫 About Me:
-- 🌱 I’m currently learning **JavaScript, React JS, and Machine Learning with Python**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/)
-- 📫 How to reach me: **sample@gmail.com**
+---
 
-## 🌐 Socials:
+## 💼 About Me
+
+- 📊 Passionate about **Investment Banking, Equity Research, and Corporate Finance**
+- 📈 Interested in **Financial Modeling, Valuation, M&A Analysis, and Capital Markets**
+- 🌱 Currently enhancing my skills in **Financial Statement Analysis, DCF Valuation, and Excel Modeling**
+- 📚 Exploring global markets, investment strategies, and economic trends
+- 👨‍💻 My projects and case studies are available on GitHub
+- 📫 Reach me at: **your.email@example.com**
+
+---
+
+## 🎯 Areas of Interest
+
+- Investment Banking
+- Mergers & Acquisitions (M&A)
+- Equity Research
+- Financial Modeling
+- Valuation
+- Corporate Finance
+- Capital Markets
+- Risk Analysis
+
+---
+
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
     <img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="yourname"
+         alt="LinkedIn"
          height="30"
          width="40" />
   </a>
 </p>
 
-# 🎃 Languages and Tools:
+---
+
+# 🛠 Financial & Analytical Tools
 
 <p align="left">
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"/>
-  </a>
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"
+alt="Excel" width="40" height="40"/>
+</a>
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"/>
-  </a>
+<a href="https://www.python.org" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+alt="Python" width="40" height="40"/>
+</a>
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"/>
-  </a>
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg"
+alt="Pandas" width="40" height="40"/>
+</a>
 
-  <a href="https://www.microsoft.com/en/microsoft-365" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"
-      alt="ms office"
-      width="40"
-      height="40"/>
-  </a>
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg"
+alt="NumPy" width="40" height="40"/>
+</a>
 
 </p>
 
-## 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+---
 
-## 📊 Most Used Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💹 Core Skills
 
-## 📈 GitHub Stats:
+![Financial Modeling](https://img.shields.io/badge/Financial%20Modeling-003366?style=flat&logo=microsoft-excel&logoColor=white)
+![Valuation](https://img.shields.io/badge/Valuation-1E3A8A?style=flat&logoColor=white)
+![Equity Research](https://img.shields.io/badge/Equity%20Research-2563EB?style=flat&logoColor=white)
+![Corporate Finance](https://img.shields.io/badge/Corporate%20Finance-0F766E?style=flat&logoColor=white)
+![Financial Analysis](https://img.shields.io/badge/Financial%20Analysis-0EA5E9?style=flat&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 📈 Financial Modeling Projects
+- Discounted Cash Flow (DCF) Valuation Model
+- Comparable Company Analysis (CCA)
+- Precedent Transaction Analysis
+- Three-Statement Financial Model
+
+### 📊 Equity Research Reports
+- Industry Analysis Reports
+- Company Valuation Reports
+- Investment Recommendation Case Studies
+
+### 💰 Capital Markets & Investment Analysis
+- Portfolio Performance Analysis
+- Stock Screening Models
+- Market Trend Analysis
+
+---
+
+## 📊 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gandhalisalsingikar28-ship-it&theme=radical&layout=compact)
+
+---
+
+## 📈 GitHub Stats
+
 <p>
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&locale=en"
-       alt="yourname" />
+       src="https://github-readme-stats.vercel.app/api?username=gandhalisalsingikar28-ship-it&show_icons=true&theme=radical"
+       alt="GitHub Stats" />
 </p>
 
-## 🔥 GitHub Streak:
+---
+
+## 🔥 GitHub Streak
+
 <p>
   <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=yourname"
-       alt="yourname" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=gandhalisalsingikar28-ship-it&theme=radical"
+       alt="GitHub Streak" />
 </p>
+
+---
+
+## 💡 Favorite Quote
+
+> "Price is what you pay. Value is what you get."
+>
+> — Warren Buffett
+
+---
+
+### 📈 Building a Career in Finance, One Model at a Time.
